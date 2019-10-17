@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\Ali Kedwaii\.Rider2019.2\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\Ali Kedwaii\.Rider2019.2\system\resharper-host\local\Transient\ReSharperHost\v192\SolutionCaches\_HololensPathfinding.102111394.00" t="ExcludeRecursive" />
+    <e p="C:\workspace\MASSLab\hololens-pathfinding\HololensPathfinding" t="IncludeRecursive">
+      <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
+      <e p="Assets" t="Include">
+        <e p="Scripts" t="Include">
+          <e p="ArrowGenerator.cs" t="Include" />
+        </e>
+      </e>
+      <e p="HololensPathfinding.sln" t="IncludeFlat" />
+      <e p="obj" t="ExcludeRecursive" />
+      <e p="Packages" t="ExcludeRecursive" />
+      <e p="Temp\bin" t="ExcludeRecursive" />
+    </e>
+  </component>
+</project>
