@@ -9,7 +9,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 3893880918644614375}
-  - component: {fileID: 8557777091899771965}
+  - component: {fileID: 1061223489605122155}
   m_Layer: 0
   m_Name: ScriptHolder
   m_TagString: Untagged
@@ -31,7 +31,7 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!114 &8557777091899771965
+--- !u!114 &1061223489605122155
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -40,13 +40,13 @@ MonoBehaviour:
   m_GameObject: {fileID: 4644887216012257054}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: ff6468fded411b74583c13007a2c3432, type: 3}
+  m_Script: {fileID: 11500000, guid: 99977f07da020ce4d88d8840c02bb5c8, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
   coordinates:
-  - {x: 0, y: -3, z: 6}
-  - {x: -1, y: -3, z: 10}
-  - {x: 0, y: -3, z: 12}
-  - {x: 2, y: -3, z: 15}
-  - {x: 3, y: -3, z: 18}
-  arrow: {fileID: 6591502721152093912, guid: 2a276709d6f090b48961afede9d8d481, type: 3}
+  - {x: 0, y: 0, z: 1}
+  - {x: 0, y: 0, z: 2}
+  - {x: 0, y: 0, z: 3}
+  - {x: 0, y: 0, z: 4}
+  - {x: 0, y: 0, z: 5}
+  doorway: {fileID: 2473660741760494127, guid: b866c18b01fe3d946a36e6d7df6b3200, type: 3}
