@@ -307,7 +307,7 @@ SphereCollider:
   m_IsTrigger: 0
   m_Enabled: 1
   serializedVersion: 2
-  m_Radius: 1
+  m_Radius: 0.5
   m_Center: {x: 0, y: 0, z: 0}
 --- !u!54 &963194230
 Rigidbody:
@@ -395,27 +395,27 @@ PrefabInstance:
     - target: {fileID: 1061223489605122155, guid: 68231f481143d1c41bc75ba4fcfa9631,
         type: 3}
       propertyPath: coordinates.Array.data[0].z
-      value: 1.5
+      value: 2
       objectReference: {fileID: 0}
     - target: {fileID: 1061223489605122155, guid: 68231f481143d1c41bc75ba4fcfa9631,
         type: 3}
       propertyPath: coordinates.Array.data[1].z
-      value: 2.5
+      value: 3
       objectReference: {fileID: 0}
     - target: {fileID: 1061223489605122155, guid: 68231f481143d1c41bc75ba4fcfa9631,
         type: 3}
       propertyPath: coordinates.Array.data[2].z
-      value: 3.5
+      value: 4
       objectReference: {fileID: 0}
     - target: {fileID: 1061223489605122155, guid: 68231f481143d1c41bc75ba4fcfa9631,
         type: 3}
       propertyPath: coordinates.Array.data[3].z
-      value: 4.5
+      value: 5
       objectReference: {fileID: 0}
     - target: {fileID: 1061223489605122155, guid: 68231f481143d1c41bc75ba4fcfa9631,
         type: 3}
       propertyPath: coordinates.Array.data[4].z
-      value: 5.5
+      value: 6
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 68231f481143d1c41bc75ba4fcfa9631, type: 3}
